@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="16" started-at="2019-12-01T09:57:47Z" finished-at="2019-12-01T09:57:47Z">
+    <groups>
+    </groups>
+    <test name="tests" duration-ms="16" started-at="2019-12-01T09:57:47Z" finished-at="2019-12-01T09:57:47Z">
+      <class name="com.example.springbootforautomation.tests.TestngForTest">
+        <test-method status="PASS" signature="before()[pri:0, instance:com.example.springbootforautomation.tests.TestngForTest@5adb0db3]" name="before" is-config="true" duration-ms="7" started-at="2019-12-01T09:57:47Z" finished-at="2019-12-01T09:57:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.example.springbootforautomation.tests.TestngForTest@5adb0db3]" name="test1" duration-ms="0" started-at="2019-12-01T09:57:47Z" finished-at="2019-12-01T09:57:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.example.springbootforautomation.tests.TestngForTest@5adb0db3]" name="test2" duration-ms="0" started-at="2019-12-01T09:57:47Z" finished-at="2019-12-01T09:57:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="after()[pri:0, instance:com.example.springbootforautomation.tests.TestngForTest@5adb0db3]" name="after" is-config="true" duration-ms="0" started-at="2019-12-01T09:57:47Z" finished-at="2019-12-01T09:57:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- com.example.springbootforautomation.tests.TestngForTest -->
+    </test> <!-- tests -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
